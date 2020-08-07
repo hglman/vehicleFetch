@@ -1,0 +1,12 @@
+Flask
+requests
+psycopg2-binary
+py_eureka_client
+elasticsearch
+certifi
+gunicorn
+confluent-kafka
+aiohttp
+aiodns
+cryptography
+aiohttp_wsgi
